@@ -1,5 +1,3 @@
-#welltok-assignment
- 
 Author: Gaurav Karki
 Tech Stack: Java, PostGreSQL
 
